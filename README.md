@@ -1,5 +1,6 @@
 My development environment, "Raku Services Environment" (RSE), is hosted on my laptop, which
-is Windows 11 Pro, WSL2 (OpenSUSE Tumbleweed; networking=mirrored), and five Hyper-V VMs.
+is Windows 11 Pro, WSL2 (OpenSUSE Tumbleweed; networking=mirrored), and five Hyper-V VMs
+(NetworkManager).
 
 All participants use "Default Switch" to reach the internet.  DNS resolution is working well
 for internet lookups on all entities.
